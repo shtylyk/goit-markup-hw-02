@@ -1,0 +1,116 @@
+/* Палитра
+Цвет body #ffffff;
+Цвет секции "Наша Команда" #F5F4FA
+Основной цвет текста #212121;
+Вторичный цвет текста #757575;
+Цвет хедера #ffffff;
+цвет футера #2F303A
+Вспомогательный цвет  #2196F3 */
+
+/* Body */
+.body {
+background-color: #F5F5F5;
+    font-family: Roboto, sans-serif;
+}
+
+/* Header */
+
+.header {
+    background-color: #FFFFFF;
+}
+
+.logo {
+color: #2196F3;
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 26px;
+line-height: 1.2;
+letter-spacing: 0.03em;
+    
+        
+}
+
+.header-site {
+  
+color: #212121;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+cursor: pointer;
+}
+
+.button {
+color: #757575;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.header-site:hover {
+    color: #2196F3;
+}
+.header-site:focus {
+    color: #2196F3;
+}
+.button:hover {
+    color: #2196F3;
+}
+.button:focus {
+    color: #2196F3;
+}
+/* List */
+
+.list-button {
+color: #212121;
+background: #F5F4FA;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.03em;
+}
+
+.list-button:hover {
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+.list-button:focus {
+color: #FFFFFF;
+background-color: #2196F3;
+}
+
+/*Example*/
+
+.example-line {
+color: #212121;
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+}
+
+.example-title {
+color: #757575;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.9;
+letter-spacing: 0.03em;
+}
+
+/* Address */
+
+.address {
+color: #FFFFFF;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.4;
+letter-spacing: 0.03em;
+}
+
+/* Footer */
+
+.footer {
+    background-color:#2F303A;
+}
+       
